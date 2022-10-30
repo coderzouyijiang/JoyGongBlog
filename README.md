@@ -1,3 +1,3 @@
 # JoyGongBlog
 
-## record my idea and code
+- record my idea and code
